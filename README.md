@@ -62,8 +62,8 @@ I run and contribute to Validators, Nodes, Sequencers, Provers, and Miners acros
 
 ## 🌐 Let's Connect
 
-- Twitter: [@HusseinAdeiza](https://twitter.com/maberaa100)
-- LinkedIn: [Mabera Hussein](https://linkedin.com/in/husseinadeiza)
+- Twitter: [@HusseinAdeiza](https://twitter.com/Adeiza_web3)
+- LinkedIn: [Mabera Hussein](https://www.linkedin.com/in/hussein-adeiza-yunusa-72864b21b/)
 - GitHub: [HusseinAdeiza](https://github.com/HusseinAdeiza)
 
 ---
