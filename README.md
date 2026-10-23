@@ -169,6 +169,6 @@ Git, Docker, Linux.
 
 ## Contact
 
-- Email: yunusahusseinadeiza@gmail.com
+- Email: web3alphatester@gmail.com
 - X: [@Adeiza_web3](https://twitter.com/Adeiza_web3)
 - LinkedIn: [hussein-adeiza-yunusa](https://www.linkedin.com/in/hussein-adeiza-yunusa-72864b21b/)
